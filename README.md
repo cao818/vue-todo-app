@@ -4,7 +4,7 @@
 
 ## 🚀 项目预览
 
-👉 在线地址：[https://cao818.github.io/vue-todo-app](https://cao818.github.io/vue-todo-app/)](https://your-username.github.io/vue-todo-app)
+👉 在线地址：[https://cao818.github.io/vue-todo-app](https://cao818.github.io/vue-todo-app/)
 
 ## ✨ 功能特性
 

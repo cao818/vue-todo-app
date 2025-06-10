@@ -27,16 +27,18 @@
 ## 📂 项目结构
 
 ```bash
-.
-├── public/                   # 公共资源
+vue-todo-app/                # 项目根目录
+├── public/                  # 静态资源目录（favicon、static files）
 ├── src/
-│   ├── App.vue               # 主组件，Todo List 页面
-│   ├── main.js               # 应用入口
-├── .gitignore
-├── index.html
-├── package.json
-├── vite.config.js            # Vite 配置文件（包含部署路径配置）
-└── README.md
+│   ├── assets/              # 图片、样式、图标等
+│   ├── components/          # 可复用组件（如 Todolist.vue和counter.vue 等）
+│   ├── App.vue              # 根组件，包含 Todo 核心交互逻辑
+│   ├── main.js              # 项目入口，初始化 Vue + Element Plus、图标等
+├── .gitignore               # Git 忽略配置
+├── package.json             # 项目配置与依赖列表
+├── vite.config.js           # Vite 构建和部署配置
+├── README.md                # 项目说明文档
+
 
 # 克隆项目
 git clone https://github.com/cao818/vue-todo-app.git
